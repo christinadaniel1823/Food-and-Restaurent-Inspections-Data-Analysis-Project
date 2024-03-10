@@ -1,0 +1,23 @@
+{
+  "itemId" : "_3XtnUNHXEe6Dubw9z92bSQ",
+  "contextList" : [ {
+    "contextName" : "Dev",
+    "repoId" : "_1_NjUNHXEe6Dubw9z92bSQ",
+    "parameterList" : [ {
+      "id" : "_1_qPR9HXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_FieldSeparator"
+    }, {
+      "id" : "_1_qPSNHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_File"
+    }, {
+      "id" : "_1_qPSdHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_RowSeparator"
+    }, {
+      "id" : "_1_qPStHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_Header"
+    }, {
+      "id" : "_1_qPS9HXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_Encoding"
+    } ]
+  } ]
+}

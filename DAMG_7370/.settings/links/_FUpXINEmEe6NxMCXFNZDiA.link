@@ -1,0 +1,23 @@
+{
+  "itemId" : "_FUpXINEmEe6NxMCXFNZDiA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_O5lfANFQEe6NxMCXFNZDiA",
+    "parameterList" : [ {
+      "id" : "_O54Z8NFQEe6NxMCXFNZDiA",
+      "name" : "Dallas_01_File"
+    }, {
+      "id" : "_O54Z8dFQEe6NxMCXFNZDiA",
+      "name" : "Dallas_01_Encoding"
+    }, {
+      "id" : "_O54Z8tFQEe6NxMCXFNZDiA",
+      "name" : "Dallas_01_RowSeparator"
+    }, {
+      "id" : "_O54Z89FQEe6NxMCXFNZDiA",
+      "name" : "Dallas_01_FieldSeparator"
+    }, {
+      "id" : "_O54Z9NFQEe6NxMCXFNZDiA",
+      "name" : "Dallas_01_Header"
+    } ]
+  } ]
+}

@@ -1,0 +1,29 @@
+{
+  "itemId" : "_8NHkENA3Ee6E-8PP9CSmkg",
+  "contextList" : [ {
+    "contextName" : "Dev",
+    "repoId" : "_TQ5oENFREe6NxMCXFNZDiA",
+    "parameterList" : [ {
+      "id" : "_TRO_SdFREe6NxMCXFNZDiA",
+      "name" : "DFI_db_Password"
+    }, {
+      "id" : "_TRO_StFREe6NxMCXFNZDiA",
+      "name" : "DFI_db_Port"
+    }, {
+      "id" : "_TRO_S9FREe6NxMCXFNZDiA",
+      "name" : "DFI_db_AdditionalParams"
+    }, {
+      "id" : "_TRO_TNFREe6NxMCXFNZDiA",
+      "name" : "DFI_db_Login"
+    }, {
+      "id" : "_TRO_TdFREe6NxMCXFNZDiA",
+      "name" : "DFI_db_Schema"
+    }, {
+      "id" : "_TRO_TtFREe6NxMCXFNZDiA",
+      "name" : "DFI_db_Database"
+    }, {
+      "id" : "_TRO_T9FREe6NxMCXFNZDiA",
+      "name" : "DFI_db_Server"
+    } ]
+  } ]
+}

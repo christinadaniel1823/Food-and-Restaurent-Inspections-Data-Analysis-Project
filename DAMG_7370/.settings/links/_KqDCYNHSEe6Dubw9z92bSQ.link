@@ -1,0 +1,180 @@
+{
+  "itemId" : "_KqDCYNHSEe6Dubw9z92bSQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_1_NjUNHXEe6Dubw9z92bSQ",
+    "parameterList" : [ {
+      "id" : "_1_qPQdHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_FieldSeparator"
+    }, {
+      "id" : "_1_qPQtHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_File"
+    }, {
+      "id" : "_1_qPQ9HXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_RowSeparator"
+    }, {
+      "id" : "_1_qPRNHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_Header"
+    }, {
+      "id" : "_1_qPRdHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_Encoding"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_Mz-UkNHYEe6Dubw9z92bSQ",
+    "parameterList" : [ {
+      "id" : "_M0ZyYdHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Server"
+    }, {
+      "id" : "_M0ZyYtHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Schema"
+    }, {
+      "id" : "_M0ZyY9HYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_AdditionalParams"
+    }, {
+      "id" : "_M0ZyZNHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Port"
+    }, {
+      "id" : "_M0ZyZ9HYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Login"
+    }, {
+      "id" : "_M0ZyZtHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Password"
+    }, {
+      "id" : "_M0ZyZdHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Database"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_1_NjUNHXEe6Dubw9z92bSQ",
+    "parameterList" : [ {
+      "id" : "_1_qPTdHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_FieldSeparator"
+    }, {
+      "id" : "_1_qPTtHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_File"
+    }, {
+      "id" : "_1_qPT9HXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_RowSeparator"
+    }, {
+      "id" : "_1_qPUNHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_Header"
+    }, {
+      "id" : "_1_qPUdHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_Encoding"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_Mz-UkNHYEe6Dubw9z92bSQ",
+    "parameterList" : [ {
+      "id" : "_M0ZycdHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Server"
+    }, {
+      "id" : "_M0ZyctHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Schema"
+    }, {
+      "id" : "_M0Zyc9HYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_AdditionalParams"
+    }, {
+      "id" : "_M0ZydNHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Port"
+    }, {
+      "id" : "_M0Zyd9HYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Login"
+    }, {
+      "id" : "_M0ZydtHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Password"
+    }, {
+      "id" : "_M0ZyddHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Database"
+    } ]
+  }, {
+    "contextName" : "Dev",
+    "repoId" : "_1_NjUNHXEe6Dubw9z92bSQ",
+    "parameterList" : [ {
+      "id" : "_1_qPR9HXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_FieldSeparator"
+    }, {
+      "id" : "_1_qPSNHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_File"
+    }, {
+      "id" : "_1_qPSdHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_RowSeparator"
+    }, {
+      "id" : "_1_qPStHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_Header"
+    }, {
+      "id" : "_1_qPS9HXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_Encoding"
+    } ]
+  }, {
+    "contextName" : "Dev",
+    "repoId" : "_Mz-UkNHYEe6Dubw9z92bSQ",
+    "parameterList" : [ {
+      "id" : "_M0ZyadHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Server"
+    }, {
+      "id" : "_M0ZyatHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Schema"
+    }, {
+      "id" : "_M0Zya9HYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_AdditionalParams"
+    }, {
+      "id" : "_M0ZybNHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Port"
+    }, {
+      "id" : "_M0Zyb9HYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Login"
+    }, {
+      "id" : "_M0ZybtHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Password"
+    }, {
+      "id" : "_M0ZybdHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Database"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_1_NjUNHXEe6Dubw9z92bSQ",
+    "parameterList" : [ {
+      "id" : "_1_qPU9HXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_FieldSeparator"
+    }, {
+      "id" : "_1_qPVNHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_File"
+    }, {
+      "id" : "_1_qPVdHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_RowSeparator"
+    }, {
+      "id" : "_1_qPVtHXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_Header"
+    }, {
+      "id" : "_1_qPV9HXEe6Dubw9z92bSQ",
+      "name" : "Chicago_01_Encoding"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_Mz-UkNHYEe6Dubw9z92bSQ",
+    "parameterList" : [ {
+      "id" : "_M0ZyedHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Server"
+    }, {
+      "id" : "_M0ZyetHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Schema"
+    }, {
+      "id" : "_M0Zye9HYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_AdditionalParams"
+    }, {
+      "id" : "_M0ZyfNHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Port"
+    }, {
+      "id" : "_M0Zyf9HYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Login"
+    }, {
+      "id" : "_M0ZyftHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Password"
+    }, {
+      "id" : "_M0ZyfdHYEe6Dubw9z92bSQ",
+      "name" : "CFI_db_Database"
+    } ]
+  } ]
+}
